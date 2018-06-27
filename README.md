@@ -1,0 +1,1 @@
+Maven Alpine with awscli
